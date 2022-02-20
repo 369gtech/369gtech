@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![stevenmh](https://user-images.githubusercontent.com/73673561/154823784-3d0c5895-bb48-416c-b523-327e1e764f00.gif)
+
 
 <!--
 **369gtech/369gtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

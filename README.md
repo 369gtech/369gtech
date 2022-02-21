@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Go to my twitter https://twitter.com/nftcryptomix, https://www.facebook.com/nftcryptomix, https://www.torum.com/u/steevcan and my discord https://discord.gg/TCwPuhwr
 - 😄 Pronouns: html css javascript signum hive eth wax bsc solana torum github discord devto twitter facebook gmail
 - ⚡ Fun fact: What is my Dream Job? To be a computer engineer so I can build my prohramable multi-dimentional light security system
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=369gtech)](https://github.com/anuraghazra/github-readme-stats)

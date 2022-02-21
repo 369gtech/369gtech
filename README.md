@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I might not know but I will try and find it you.
 - 📫 How to reach me: Go to my twitter https://twitter.com/nftcryptomix, https://www.facebook.com/nftcryptomix, https://www.torum.com/u/steevcan and my discord https://discord.gg/TCwPuhwr
 - 😄 Pronouns: html css javascript signum hive eth wax bsc solana torum github discord devto twitter facebook gmail
-- ⚡ Fun fact: What is my Dream Job? To be a computer engineer so I can build my prohramable multi-dimentional light security system.
--->
+- ⚡ Fun fact: What is my Dream Job? To be a computer engineer so I can build my prohramable multi-dimentional light security system

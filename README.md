@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **steevcan@gmail.com**
 
-- 📄 Know about my experiences [New to coding so basic html, css and javascript.](New to coding so basic html, css and javascript.)
+- 📄 Know about my experiences [New to coding so basic html, css and javascript.]
 
 - ⚡ Fun fact **I think I am funny and have some really dry jokes :).**
 

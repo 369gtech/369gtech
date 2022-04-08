@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">I am a passionate about learning to code so I can build Web3 Dapps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=369gtech&label=Profile%20views&color=0e75b6&style=flat" alt="369gtech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=369gtech&label=Profile%20views&color=0e75b6&style=flat" alt="369gtech" /> </p>
+<a href="https://discord.gg/aTYpM7qX"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=0e75b6&style=flat-square" alt="License"></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
 

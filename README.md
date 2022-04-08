@@ -7,8 +7,7 @@
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
 
-<p align="center">
-<p align="left"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
+<p align="center"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
 
 - 🔭 I’m currently working on [monoGames](https://github.com/369gtech)
 

@@ -8,7 +8,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
 
-- 🔭 I’m currently working on [monoGames](https://github.com/369gtech)
+- 🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames)
 
 - 🌱 I’m currently learning **how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter so I am looking to add Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming ecosystem.**
 

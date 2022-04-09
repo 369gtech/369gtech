@@ -8,23 +8,23 @@
 </p>
 <p align="center"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
 
-- 🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames)
+- 🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames) which includes a gaming metaverse, monoSol a gaming social media and other monoDapps.
 
-- 🌱 I’m currently learning **how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter so I am looking to add Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming ecosystem.**
+- 🌱 I’m currently learning **how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter. I hope to add Signum along with Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming metaverse.**
 
-- 👯 I’m looking to collaborate on [art work for my nft's for my game.](https://github.com/369gtech)
+- 👯 I’m looking to collaborate on [art work for my nft's for my gaming metaverse.](https://github.com/369gtech)
 
-- 🤝 I’m looking for help with [connecting my games with many blockchains so I can create a really cool gaming community.](https://github.com/369gtech)
+- 🤝 I’m looking for help with [connecting my games with the many blockchains so I can create a really cool gaming community.](https://github.com/369gtech)
 
-- 👨‍💻 All of my projects are available at [https://github.com/369gtech](https://github.com/369gtech)
+- 👨‍💻 All of my projects are available at [https://github.com/369gtech/monoGames](https://github.com/369gtech).
 
-- 📝 I regularly write articles on [https://twitter.com/nftcryptomix](https://twitter.com/nftcryptomix)
+- 📝 I regularly write articles on [https://twitter.com/nftcryptomix](https://twitter.com/nftcryptomix).
 
-- 💬 Ask me about **anything and I will give you my honest opinion.**
+- 💬 Ask me about anything and I will give you my honest opinion.
 
-- 📫 How to reach me **steevcan@gmail.com**
+- 📫 How to reach me steevcan@gmail.com.
 
-- 📄 Know about my experiences [New to coding so basic html, css and javascript.]
+- 📄 Know about my experiences, new to coding so I know basic html, css and javascript.
 
 - ⚡ Fun fact **I think I am funny and have some really dry jokes :).**
 

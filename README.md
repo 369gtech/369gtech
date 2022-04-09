@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames) which includes a gaming metaverse, monoSol a gaming social media and other monoDapps.
 
-- 🌱 I’m currently learning **how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter. I hope to add Signum along with Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming metaverse.**
+- 🌱 I’m currently learning how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter. I hope to add Signum along with Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming metaverse.
 
 - 👯 I’m looking to collaborate on [art work for my nft's for my gaming metaverse.](https://github.com/369gtech)
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences, new to coding so I know basic html, css and javascript.
 
-- ⚡ Fun fact **I think I am funny and have some really dry jokes :).**
+- ⚡ Fun fact **"I think I am funny and have some really dry jokes :):):)".**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences, new to coding so I know basic html, css and javascript.
 
-- ⚡ Fun fact **"I think I am funny and have some really dry jokes :):):)".**
+- ⚡ Fun Fact **"I think I am funny and have some really dry jokes :):):)".**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

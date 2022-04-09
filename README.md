@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [art work for my nft's for my gaming metaverse.](https://github.com/369gtech)
 
-- 🤝 I’m looking for help with [connecting my games with the many blockchains so I can create a really cool gaming community.](https://github.com/369gtech)
+- 🤝 I’m looking for help with connecting my games with the many blockchains so I can create a really cool multi-coin/token gaming community.
 
 - 👨‍💻 All of my projects are available at [https://github.com/369gtech/monoGames](https://github.com/369gtech).
 

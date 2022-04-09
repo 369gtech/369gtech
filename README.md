@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning how Web3 works and applying that to my monoGames metaverse but I would like to say I am a huge Signum Blockchain Supporter. I hope to add Signum along with Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and nftcryptomix (NFTMC) a signum token to my gaming metaverse.
 
-- 👯 I’m looking to collaborate on [art work for my nft's for my gaming metaverse.](https://github.com/369gtech)
+- 👯 I’m looking to collaborate on art work for my nft's for my gaming metaverse.
 
 - 🤝 I’m looking for help with connecting my games with the many blockchains so I can create a really cool multi-coin/token gaming community.
 

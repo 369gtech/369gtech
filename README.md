@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">I am a passionate about learning to code so I can build Web3 Dapps.</h3>
+<h3 align="center">I am passionate about learning to code so I can build Web3 Dapps.</h3>
 
 <p align="center"> 
 <a href="https://discord.gg/GUPh9PK8"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>

@@ -28,7 +28,7 @@
 
 - ⚡ Fun Fact **"I think I am funny and have some really dry jokes :):):)".**
 
-<h3 align="center"><strong>Blogs posts</strong></h3>
+<h3 align="center"><strong>Social Media</strong></h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

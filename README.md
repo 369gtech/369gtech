@@ -8,7 +8,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/nftcryptomix" target="blank"><img src="https://img.shields.io/twitter/follow/nftcryptomix?logo=twitter&style=for-the-badge" alt="nftcryptomix" /></a> </p>
 
-🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames) which includes a gaming metaverse, monoSol a gaming social media and other monoDapps. I am also working on [369gtechDapps](https://github.com/369gtech/369gtechDapps) in which I hope to build smart contracts that will help businesses to be more sustainable, efficient and leaders in industry standards.
+🔭 I’m currently working on [monoGames](https://github.com/369gtech/monoGames) which includes a gaming metaverse, monoSol a gaming social media and other monoDapps. I am also working on [Sustainable Hokioi](https://github.com/369gtech/Sustainable-Hokioi) to build Dapps that will help businesses to be more sustainable, efficient and leaders in industry standards while also building Dapps that will shape our youth to foster, promote and up skill their sustainable know how to keep innovating the sustainability space.
 
 🌱 I’m currently learning how Web3 works and applying that to my [monoGames](https://github.com/369gtech/monoGames) metaverse but I would like to say I am a huge [Signum Blockchain](https://www.signum.network/) Supporter. I hope to add Signum along with Eth, Sol, Hive, BSC, Wax Blockchain, DOGE, Shiba Inu and three Signum Tokens nftcryptomix (NFTMC), monoGames Token (MGT) and the Ultra-Rare Mythical monoTomicGold Token to my gaming metaverse.
 

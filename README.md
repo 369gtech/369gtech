@@ -2,7 +2,7 @@
 <h3 align="center">I am passionate about learning to code so I can build Web3 Dapps.</h3>
 
 <p align="center"> 
-<a href="https://discord.gg/N4jDmyBn"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/a7Q2WMeYkj"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <img src="https://komarev.com/ghpvc/?username=369gtech&label=Profile%20Views&color=brightgreen&style=flat" alt="369gtech" />
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
@@ -22,7 +22,7 @@
 
 💬 Ask me about anything and I will give you my honest opinion.
 
-📫 You can reach ma and ask me anything on my [discord](https://discord.gg/N4jDmyBn).
+📫 You can reach ma and ask me anything on my [discord](https://discord.gg/a7Q2WMeYkj).
 
 📄 Know about my experiences, new to coding so I know basic html, css and javascript.
 
